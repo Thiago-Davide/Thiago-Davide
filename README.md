@@ -2,7 +2,7 @@
 - 👀 I’m interested in Training course
 - 🌱 I’m currently learning Programming Fundamentals
 - 💞️ I’m looking to collaborate on Projects and Groups 
-- 📫 How to reach me +55 4499746-7518
+- 📫 How to reach me +55 4499746-7518 or thiago.davide@hotmail.com
 
 <!---
 Thiago-Davide/Thiago-Davide is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
